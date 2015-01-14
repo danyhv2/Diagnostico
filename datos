@@ -1,0 +1,11 @@
+[
+    {
+        "que": {"una aplicacion":"false", "un framework":"true", "un juego":"false"}
+    }, 
+    {
+        "Seleccione un Id por medio de jQuery": {"$('id')":"false", "$('.main')":"false", "$('#main')":"true"}       
+    },
+    {
+        "Seleccione una clase por medio de jQuery": {"$('id')":"false", "$('.main')":"true", "$('#main')":"false"}
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+    "pregunta": "Que es jQuery?",
+    "respuestas": {"una aplicacion":"falso", "un framework":"cierto", "un juego":"falso"}
+                
+    },
+    {
+    "pregunta": "Seleccione un Id por medio de jQuery",
+    "respuestas": {"$('id')":"falso", "$('.main')":"falso", "$('#main')":"cierto"}         
+    },
+    {
+     "pregunta":  "Seleccione una clase por medio de jQuery",
+     "respuestas": {"$('id')":"falso", "$('.main')":"cierto", "$('#main')":"falso"}
+    },
+    {
+     "pregunta":  "En que año se abolio el ejercito en CR?",
+     "respuestas": {"1930":"falso", "1948":"cierto", "1944":"falso"}
+    }
+
+]
+
+
+
